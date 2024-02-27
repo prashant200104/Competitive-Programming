@@ -1,0 +1,4 @@
+1. Sum of a range, point update range query
+2. Print min of range and freq of min
+3. Max sum subarray in a range 
+                - Think in terms of left_sum and right_sum of a number and find max number in a range
